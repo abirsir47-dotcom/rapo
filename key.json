@@ -2,11 +2,11 @@
   "AppConfig": {
     "bannerText": "SensiNex",
     "getKeyText": "🔑 Get Key ↗️",
-    "getKeyUrl": "L",
+    "getKeyUrl": "https://whatsapp.com/channel/0029Vb8Qq048qIzlVBVzf20y",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
-    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "maintenanceMsg": "SensiNex server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
       "👨‍💻 Engine by Abir 👨‍💻",
@@ -14,7 +14,7 @@
       "🛠 Stable Build"
     ],
     "title": "DPMods Core",
-    "updateMsg": "New DPMods version available! Please update.",
+    "updateMsg": "New SensiNex version available! Please update.",
     "updateRequired": false,
     "updateUrl": "https://whatsapp.com/channel/0029Vb8Qq048qIzlVBVzf20y"
   },
